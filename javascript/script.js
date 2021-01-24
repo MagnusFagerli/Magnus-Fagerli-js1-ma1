@@ -10,7 +10,6 @@ function catComplain() {
 catComplain();
 
 
-
 // Question Two
 
 const changeHeader = document.querySelector("h3");
