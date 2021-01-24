@@ -1,0 +1,16 @@
+.content {
+    padding: 1rem;
+    border: 1px solid lightgrey;
+}
+
+.content-item {
+    text-transform: uppercase;
+    color: green;.content {
+        padding: 1rem;
+        border: 1px solid lightgrey;
+    }
+    
+    .content-item {
+        text-transform: uppercase;
+        color: green;
+    }
